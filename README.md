@@ -4,7 +4,6 @@
 ## I'm a passionate frontend developer from Ukraine!
 - 🔭 I'm fervently committed to lifelong learning.
 - 🌱 I’m currently mastering **JavaScript, TypeScript, RTK Query**
-- 👨‍💻 Some of my projects are available at [**Portfolio**](https://zubko.netlify.app/)
 - ✉️ How to reach me **romanzubko93@gmail.com**
 
 ### Connect with me:
